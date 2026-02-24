@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+      "weather": {
+        "command": "/Users/adith.jose.ext/.local/bin/uv",
+        "args": [
+          "run",
+          "--frozen",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "/Users/adith.jose.ext/Desktop/trial-adk/mcp-server-demo/server/weather.py"
+        ]
+      }
+    }
+  }
